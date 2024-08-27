@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/itmarko/itmarko/blob/main/bhagwan.png)
 <div align="center">
- <h1 style="font-family: 'Pacifico', cursive;">Hi 👨‍💻 I'm Bhagwan Singh</h1>
-  <h3>Full-Stack Developer Specializing in React, Spring Boot, and Oracle Database</h3>
+<!--  <h1 style="font-family: 'Pacifico', cursive;">Hi 👨‍💻 I'm Bhagwan Singh</h1> -->
+<!--   <h3>Full-Stack Developer Specializing in React, Spring Boot, and Oracle Database</h3> -->
 <!--   <p>Building scalable, robust, and efficient web applications</p> -->
-<!--   <h1>👨‍💻 Full-Stack Developer</h1>
-  <h3>Specializing in React, Spring Boot, and Oracle Database</h3> -->
+  <h1>👨‍💻 Full-Stack Developer</h1>
+  <h3>Specializing in React, Spring Boot, and Oracle Database</h3>
   <p>Building scalable, robust, and efficient web applications</p>
 </div>
 <hr/>
