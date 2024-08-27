@@ -8,7 +8,8 @@
   <p>Building scalable, robust, and efficient web applications</p>
 </div>
 <hr/>
-# 💫 About Me:
+<div align="left">
+  # 💫 About Me:
 🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.<br>
 🌱 I’m currently learning advanced backend development and microservices architecture.<br>
 👯 I’m looking to collaborate on open-source projects that involve Java and modern web technologies.<br>
@@ -17,6 +18,7 @@
 📫 How to reach me: imarkoji0123@gmail.com<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I’m a quick learner and love exploring new tech trends!<br>
+</div>
 
 
 ## 🌐 Socials:
