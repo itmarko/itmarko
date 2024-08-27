@@ -1,10 +1,10 @@
 ![MasterHead](https://github.com/itmarko/itmarko/blob/main/bhagwan.png)
 <div align="center">
-<!--  <h1 style="font-family: 'Pacifico', cursive;">Hi 👨‍💻 I'm Bhagwan Singh</h1> -->
-<!--   <h3>Full-Stack Developer Specializing in React, Spring Boot, and Oracle Database</h3> -->
+ <h1 style="font-family: 'Pacifico', cursive;">Hi 👨‍💻 I'm Bhagwan Singh</h1>
+  <h3>Full-Stack Developer Specializing in React, Spring Boot, and Oracle Database</h3>
 <!--   <p>Building scalable, robust, and efficient web applications</p> -->
-  <h1>👨‍💻 Full-Stack Developer</h1>
-  <h3>Specializing in React, Spring Boot, and Oracle Database</h3>
+<!--   <h1>👨‍💻 Full-Stack Developer</h1>
+  <h3>Specializing in React, Spring Boot, and Oracle Database</h3> -->
   <p>Building scalable, robust, and efficient web applications</p>
 </div>
 <hr/>
@@ -13,7 +13,7 @@
 🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.<br>
 🌱 I’m currently learning advanced backend development and microservices architecture.<br>
 👯 I’m looking to collaborate on open-source projects that involve Java and modern web technologies.<br>
-🤔 I’m looking for help with improving my skills in cloud computing.<br>
+🤔 I’m seeking assistance in enhancing my skills in both cloud computing and cybersecurity.<br>
 💬 Ask me about Java development, React, and Spring Boot.<br>
 📫 How to reach me: imarkoji0123@gmail.com<br>
 😄 Pronouns: He/Him<br>
