@@ -1,4 +1,4 @@
-
+![MasterHead](https://github.com/itmarko/itmarko/blob/main/bhagwan.png)
 <div align="center">
 <!--  <h1 style="font-family: 'Pacifico', cursive;">Hi 👨‍💻 I'm Bhagwan Singh</h1> -->
 <!--   <h3>Full-Stack Developer Specializing in React, Spring Boot, and Oracle Database</h3> -->
@@ -8,7 +8,7 @@
   <p>Building scalable, robust, and efficient web applications</p>
 </div>
 <hr/>
-<div align="left">
+<img align="right" alt="Coding" width="400" src="https://github.com/itmarko/itmarko/blob/main/programmer.gif">
   # 💫 About Me:
 🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.<br>
 🌱 I’m currently learning advanced backend development and microservices architecture.<br>
@@ -18,7 +18,6 @@
 📫 How to reach me: imarkoji0123@gmail.com<br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I’m a quick learner and love exploring new tech trends!<br>
-</div>
 
 
 ## 🌐 Socials:
@@ -29,6 +28,7 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwindcss&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
