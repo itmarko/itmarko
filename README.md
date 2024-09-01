@@ -8,7 +8,7 @@
   <p>Building scalable, robust, and efficient web applications</p>
 </div>
 <hr/>
-<img align="right" alt="Coding" width="400" src="https://github.com/itmarko/itmarko/blob/main/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/itmarko/itmarko/blob/main/programmer">
   # 💫 About Me:
 🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.<br>
 🌱 I’m currently learning advanced backend development and microservices architecture.<br>
