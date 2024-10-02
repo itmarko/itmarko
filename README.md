@@ -16,7 +16,7 @@
 <!-- About me section -->
  <h2>⚡️ About Me</h2>
  <!--Image Gif-->
-<img align="right" alt="Coding" width="500px" src="https://github.com/itmarko/itmarko/blob/main/programmer">
+<img align="right" alt="Coding" width="400px" height="250px" src="https://github.com/itmarko/itmarko/blob/main/programmer">
  <ul>
      <li>✨ I’m Bhagwan Singh </li>
      <li>🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.</li>
