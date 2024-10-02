@@ -8,18 +8,30 @@
   <p>Building scalable, robust, and efficient web applications</p>
 </div>
 <hr/>
-<img align="right" alt="Coding" width="400" src="https://github.com/itmarko/itmarko/blob/main/programmer">
-  # 💫 About Me:
-🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.<br>
-🌱 I’m currently learning advanced backend development and microservices architecture.<br>
-👯 I’m looking to collaborate on open-source projects that involve Java and modern web technologies.<br>
-🤔 I’m seeking assistance in enhancing my skills in both cloud computing and cybersecurity.<br>
-💬 Ask me about Java development, React, and Spring Boot.<br>
-📫 How to reach me: imarkoji0123@gmail.com<br>
-😄 Pronouns: He/Him<br>
-⚡ Fun fact: I’m a quick learner and love exploring new tech trends!<br>
+<!-- Animation Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I'm+Bhagwan+Singh.;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+a+Full-Stack+Developer.;Specializing+in+React%2C+Spring+Boot%2C+and+Oracle+Database%2C)](https://git.io/typing-svg)
+<!-- Animation Typing: END -->
 
+<!--Image Gif-->
+<img align="right" alt="Coding" width="400px" src="https://github.com/itmarko/itmarko/blob/main/programmer">
+<!-- About me section -->
+ <h2>⚡️ About Me</h2>
+ <ul>
+     <li>✨ I’m Bhagwan Singh </li>
+     <li>🔭 I’m currently working on building full-stack web applications using React, Spring Boot, and Oracle SQL.</li>
+     <li>🌱 I’m currently learning advanced backend development and microservices architecture.</li>
+     <li>👯 I’m looking to collaborate on open-source projects that involve Java and modern web technologies.</li>
+     <li>🤔 I’m seeking assistance in enhancing my skills in both cloud computing and cybersecurity.</li>
+     <li>💬 Ask me about Java development, React, and Spring Boot.</li>
+     <li>📫 How to reach me: imarkoji0123@gmail.com</li>
+     <li>😄 Pronouns: He/Him</li>
+     <li>⚡ Fun fact: I’m a quick learner and love exploring new tech trends!</li>
+ </ul>
 
+<!-- About me section: END -->
+
+<!-- Conecct section -->
+<h2>Connect with me</h3>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itmarko.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/it.marko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/it-marko) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12069284) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/it_marko) 
 
