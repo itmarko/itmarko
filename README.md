@@ -75,7 +75,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=itmarko&theme=onedark&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=itmarko&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### ✍️ Random Dev Quote
@@ -83,7 +83,7 @@
 
 <!-- Top Contributed Repo Section -->
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itmarko&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=itmarko&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ---
