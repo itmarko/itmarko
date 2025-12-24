@@ -87,8 +87,8 @@
 
 
 ---
-### Thank you for visiting my profile!** 🌟  
-[![Visitor Count](https://visitcount.itsvg.in/api?id=itmarko&icon=7&color=maroon)](https://your-url.com)
+### Thank you for visiting my profile! 🌟  
+![Profile Views](https://komarev.com/ghpvc/?username=itmarko&label=Profile%20Views&color=800000)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itmarko) 
