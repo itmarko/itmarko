@@ -73,17 +73,33 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itmarko&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itmarko&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🔝 Featured Repositories
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itmarko&theme=tokyonight" />
+</p>
+
+<div align="center">
+
+| 🚀 Project | 🧰 Tech | 📄 Description |
+|----------|--------|---------------|
+| [🍽️ BiteBG SaaS Platform](https://github.com/itmarko) | React, Spring Boot | Multi-tenant restaurant SaaS with RBAC & dashboards |
+| [🔐 API Key Management](https://github.com/itmarko) | Microservices, Spring | Secure API lifecycle & key management |
+| [⚛️ Full Stack Apps](https://github.com/itmarko) | React + Spring Boot | Scalable enterprise applications |
+| [🏢 Business Directory](https://github.com/itmarko) | Java, MySQL | Business & city listing system |
+| [🍴 Restaurant System](https://github.com/itmarko) | React, Tailwind | Order, kitchen & billing system |
+
+</div>
+<!--
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=itmarko&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![](https://github-profile-trophy.vercel.app/?username=itmarko&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!-- Top Contributed Repo Section -->
+<!-- Top Contributed Repo Section 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itmarko&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=itmarko&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)-->
 
 
 ---
@@ -93,4 +109,4 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/itmarko) 
 
-  
+  ⭐ *Thanks for visiting my profile!*
